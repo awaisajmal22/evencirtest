@@ -71,7 +71,7 @@ class MoodView extends StatelessWidget {
                     ),
                   ),
                   context.heightBox(0.038),
-                  Center(child: CircularIconSlider()),
+                  Center(child: GriadientThumbSlider()),
                   context.heightBox(0.024),
                   BlocBuilder<MoodBloc, MoodState>(
                     bloc: moodBloc,

@@ -6,8 +6,8 @@ import 'package:testtask/core/constant/constant.dart';
 import 'package:testtask/gen/assets.gen.dart';
 import 'package:testtask/features/presentation/bloc/mood/mood_bloc.dart';
 
-class CircularIconSlider extends StatelessWidget {
-  const CircularIconSlider({super.key});
+class GriadientThumbSlider extends StatelessWidget {
+  const GriadientThumbSlider({super.key});
 
   String _getIcon(double value) {
     int index = 0;
