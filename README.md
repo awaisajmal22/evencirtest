@@ -1,3 +1,10 @@
+
+
+APK LINK : https://github.com/awaisajmal22/evencirtest/tree/main/releases/download/v1.0/app-release.apk
+-> By Click on View Raw the apk start downloading
+SCREENSHOTS LINK: https://github.com/awaisajmal22/evencirtest/tree/main/tree/main/screenshots
+VIDEO DEMO LINK: https://drive.google.com/drive/folders/1UpMDSjkS_Snpykk5QgedICMA1E6gScTs?usp=sharing
+
 Dependencies Used & Why
 flutter_svg:
 For rendering SVG images and icons.
@@ -48,3 +55,9 @@ gen/:
 Generated files (e.g., assets, fonts) by flutter_gen.
 main.dart: 
 App entry point and root widget.
+
+
+APK LINK : https://github.com/awaisajmal22/evencirtest/tree/main/releases/download/v1.0/app-release.apk
+-> By Click on View Raw the apk start downloading
+SCREENSHOTS LINK: https://github.com/awaisajmal22/evencirtest/tree/main/tree/main/screenshots
+VIDEO DEMO LINK: https://drive.google.com/drive/folders/1UpMDSjkS_Snpykk5QgedICMA1E6gScTs?usp=sharing
