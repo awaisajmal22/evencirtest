@@ -40,7 +40,8 @@ class MoodView extends StatelessWidget {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  context.heightBox(0.036),
+                  context.heightBox(0.060),
+
                   AppText(
                     title: 'Mood',
                     fontSize: 32,
