@@ -56,7 +56,7 @@ class PlanTile extends StatelessWidget {
                 ),
                 SizedBox(height: 4),
                 Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+
                   children: [
                     AppText(
                       title: plan['title'],
@@ -64,13 +64,14 @@ class PlanTile extends StatelessWidget {
                       fontWeight: FontWeight.w400,
                       color: Colors.white,
                     ),
-
+Spacer(),
                     AppText(
                       title: plan['duration'],
                       fontSize: 12,
                       fontWeight: FontWeight.w400,
                       color: ColorPalette.mediumGray,
                     ),
+                    context.widthBox(0.032)
                   ],
                 ),
               ],
